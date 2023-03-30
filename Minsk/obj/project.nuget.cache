@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOXK2PoI6RT6QH+iKU+dyJcqRWukFwZIHb/F9i/Nlvw7O0vHP5MX7lhVMGq350mrf3kHxF/RjugfLAbMSHAXaA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\mesqu\\source\\repos\\YAIL\\Minsk\\Minsk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mesqu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mesqu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mesqu\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
