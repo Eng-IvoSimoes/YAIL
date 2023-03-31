@@ -15,6 +15,7 @@ namespace Minsk
         private bool showProgram;
         private readonly Dictionary<VariableSymbol, object> variables = new Dictionary<VariableSymbol, object>();
 
+
         protected override void RenderLine(string line)
         {
             var tokens = SyntaxTree.ParseTokens(line);
